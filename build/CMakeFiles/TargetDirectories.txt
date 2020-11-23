@@ -1,0 +1,8 @@
+C:/Users/aliis/Desktop/luaTest/build/CMakeFiles/sdlLua.dir
+C:/Users/aliis/Desktop/luaTest/build/CMakeFiles/INSTALL.dir
+C:/Users/aliis/Desktop/luaTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aliis/Desktop/luaTest/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/aliis/Desktop/luaTest/build/lua-5.4.1/CMakeFiles/INSTALL.dir
+C:/Users/aliis/Desktop/luaTest/build/lua-5.4.1/CMakeFiles/lua_static.dir
+C:/Users/aliis/Desktop/luaTest/build/sol2/CMakeFiles/INSTALL.dir
+C:/Users/aliis/Desktop/luaTest/build/sol2/CMakeFiles/ALL_BUILD.dir
